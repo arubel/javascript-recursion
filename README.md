@@ -1,2 +1,2 @@
 # Recursion Sprint
-- Review the README associated with this sprint [here](http://bootcamp-essentials.hackreactor.com/content/sprint-recursion.html)
+- This work was done as part of [Hack Reactor](http://hackreactor.com) curriculum while doing the bootcamp-essentials.
